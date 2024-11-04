@@ -1,0 +1,6 @@
+@LayoutAPI_HostAddress = http://localhost:5192
+
+GET {{LayoutAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
